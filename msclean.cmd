@@ -1,0 +1,1 @@
+"C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\MsBuild.exe" msclean.csproj >clean.log

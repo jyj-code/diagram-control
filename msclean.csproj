@@ -1,0 +1,9 @@
+<Project ToolsVersion="2.0" DefaultTargets="clean" 
+xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Target Name="clean">	 
+	<RemoveDir Directories=".\TopologyIdentification\bin"/>
+    <RemoveDir Directories=".\TopologyIdentification\obj"/> 
+   <RemoveDir Directories=".\UnitTestTopologyIdentification\bin"/>
+    <RemoveDir Directories=".\UnitTestTopologyIdentification\obj"/> 
+  </Target>
+</Project>
